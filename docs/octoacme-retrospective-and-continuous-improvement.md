@@ -17,6 +17,15 @@ After each sprint, release, or important milestone. Also after incidents.
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
 
+## Retrospective Participant Roles
+Ensure the following roles are invited and encouraged to contribute:
+- **Scrum Master / Facilitator**: Leads the session and ensures all voices are heard
+- **Developers**: Share feedback on technical challenges and process friction
+- **Product Manager**: Provides perspective on scope, priorities, and customer feedback
+- **QA Lead**: Highlights quality issues, test gaps, or process improvements
+- **UX Designer** (if applicable): Shares design handoff experiences and collaboration feedback
+- **DevOps Engineer** (if applicable): Reports on deployment, pipeline, or infrastructure issues
+
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync

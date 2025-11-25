@@ -23,6 +23,14 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
 
+## Role-Based Release Review
+Before final release approval, ensure sign-off from the following roles:
+- [ ] **Product Manager**: Confirms all acceptance criteria are met
+- [ ] **QA Lead**: Confirms quality gates passed and test coverage is adequate
+- [ ] **DevOps Engineer**: Confirms deployment pipeline and rollback plan are ready
+- [ ] **Technical Writer**: Confirms release notes and documentation are up to date
+- [ ] **UX Designer** (if UI changes): Confirms design fidelity and user experience
+
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
   - Trigger incident response and notify on-call

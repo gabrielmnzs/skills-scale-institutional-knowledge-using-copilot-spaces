@@ -24,6 +24,15 @@ Maintain a simple table with:
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
 
+## Role-Based Communication Responsibilities
+Clarify who is responsible for key communications:
+- **Project Manager**: Weekly status updates, stakeholder briefings, escalation coordination
+- **Product Manager**: Roadmap updates, feature announcements, customer-facing communications
+- **Scrum Master**: Team ceremony facilitation, impediment escalation
+- **Technical Writer**: Documentation updates, release notes, onboarding materials
+- **DevOps Engineer**: Deployment announcements, incident notifications
+- **QA Lead**: Quality gate status, test coverage reports
+
 ## Communication Templates
 Weekly Status Template:
 - Progress this week:
