@@ -25,7 +25,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Design Handoff Checklist
 When a feature involves UI/UX work, ensure a smooth handoff from UX Designer to Developers:
-- [ ] Design specs (wireframes, mockups, prototypes) shared and accessible
+- [ ] Design specs (wireframes, mockups, and prototypes) shared and accessible
 - [ ] Acceptance criteria include visual/interaction requirements
 - [ ] Assets (icons, images, fonts) provided and documented
 - [ ] Edge cases and error states defined
