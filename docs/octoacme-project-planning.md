@@ -41,3 +41,14 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Role Assignment Checklist
+Before starting execution, ensure the following roles are assigned and communicated:
+- [ ] Product Manager identified and available
+- [ ] Project Manager assigned for coordination
+- [ ] Developer(s) assigned to backlog items
+- [ ] UX Designer engaged (if UI/UX work is in scope)
+- [ ] QA Lead assigned for test strategy
+- [ ] DevOps Engineer identified for CI/CD and deployment support
+- [ ] Technical Writer assigned (if documentation deliverables are required)
+- [ ] Scrum Master assigned (if using Agile/Scrum framework)
